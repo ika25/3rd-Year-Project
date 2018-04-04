@@ -45,17 +45,19 @@ Is most popular and in demand open source SQL database management systems and wa
 # Database Design
 I used a wampserver to create the studybuddy database, I then create three tables and then I called them “subjects”, “topics”, “subject_topics”. Here are the sql commands I used to create the database and tables.
 
-Creating Database
+#### Creating Database
 
-Create Database ‘notedude’;
-Creating Subject Table
+### Create Database ‘notedude’;
+
+###### Creating Subject Table
 DROP TABLE IF EXISTS `subjects`;
 CREATE TABLE IF NOT EXISTS `subjects` (
   `id` int(3) NOT NULL,
   `name` text NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-Creating Subject Topic Table
+
+######Creating Subject Topic Table
 DROP TABLE IF EXISTS `subject_topics`;
 CREATE TABLE IF NOT EXISTS `subject_topics` (
   `subjectID` int(3) NOT NULL,
@@ -63,7 +65,8 @@ CREATE TABLE IF NOT EXISTS `subject_topics` (
   PRIMARY KEY (`subjectID`,`topicID`),
   KEY `topicID` (`topicID`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-Creating Topics Table
+
+###### Creating Topics Table
 DROP TABLE IF EXISTS `topics`;
 CREATE TABLE IF NOT EXISTS `topics` (
   `topicID` int(11) NOT NULL,
