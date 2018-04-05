@@ -88,4 +88,7 @@ CREATE TABLE IF NOT EXISTS `topics` (
 ### Homepage
 The homepage is the navigation tool to go through the main pages of the project. Here are the mains of the Application.
 
+![welcome](https://user-images.githubusercontent.com/16356275/38364862-1ec70778-38d2-11e8-808a-e28391065096.png)
+
+
 
