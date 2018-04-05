@@ -90,5 +90,12 @@ The homepage is the navigation tool to go through the main pages of the project.
 
 ![welcome](https://user-images.githubusercontent.com/16356275/38364862-1ec70778-38d2-11e8-808a-e28391065096.png)
 
+### Subject Listing
+
+Displays all the subjects that are stored in the database.
+![subject listing](https://user-images.githubusercontent.com/16356275/38365255-82b7e33c-38d3-11e8-92ad-a6a161ec48e6.png)
+
+### Notes
+The Notes page displays all the notes in the database and they are ordered in numerical order by Subject ID. You can navigate through the pages here to add Subject topic id, notes, update and delete notes as well. Click on Add Subject Topic to begin.
 
 
