@@ -98,4 +98,8 @@ Displays all the subjects that are stored in the database.
 ### Notes
 The Notes page displays all the notes in the database and they are ordered in numerical order by Subject ID. You can navigate through the pages here to add Subject topic id, notes, update and delete notes as well. Click on Add Subject Topic to begin.
 
+![notes](https://user-images.githubusercontent.com/16356275/38365349-e00ce8e8-38d3-11e8-8235-be92e5e7189b.png)
 
+
+### Add Notes
+Enter the name of the topic and content of the topic you wish to create and click add. Now return to the Notes page and it has been added to the table in the database.
