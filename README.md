@@ -103,3 +103,4 @@ The Notes page displays all the notes in the database and they are ordered in nu
 
 ### Add Notes
 Enter the name of the topic and content of the topic you wish to create and click add. Now return to the Notes page and it has been added to the table in the database.
+![addnotes](https://user-images.githubusercontent.com/16356275/38365445-3f0ae520-38d4-11e8-875a-19209ea52cfc.png)
