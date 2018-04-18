@@ -130,3 +130,26 @@ I run into few problems with trying to addd/Add subject topic id and delete feat
   1)	After adding SubjectTopic and Notes, the program was not directed to legitimate page rather it was returning to non-existing page.       I redirected it to legitimate page by changing the return type.
   2)	For deleting Notes, it was not deleting the children/foreign-key tables’ record. For this purpose, I deleted the children first         then the note.
 If I could enhance this project in any way I would have added a login feature to allow more than one user to store notes on this system, and to be able to upload pictures and save it.
+
+### References
+Youtube
+
+MySQL documentation : https://dev.mysql.com/doc/refman/5.7/en/introduction.html
+
+Eclipse
+
+Tomcat
+
+Wampserver
+
+JSF Documentation
+
+JSF tutorials
+
+Bootstrap styling
+
+SQL tutorial
+
+Tomcat Documentation
+
+Eclipse Documentation
