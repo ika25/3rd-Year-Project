@@ -84,6 +84,21 @@ CREATE TABLE IF NOT EXISTS `topics` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 
+# User Guide
+
+## Installation
+1)Download wampserver - it containes new versions of apache, php and mysql.
+
+2)Download tomcat - Select type of Installation Normal, click Next, click next on the Configuration Options screen, set the JRE (Java Runtime Environment) Path e.g. C:\Program Files\Java\jre1.8.0_101 and click next and finally click Install.
+
+3)Install Eclupse IDE for jave EE developers
+
+## Starting application
+When everything is installed open project in eclipse and run with tomcat server if everything installed right should be able to open app
+ on this web page http://localhost:8080/NoteDude/faces/Index.xhtml
+
+
+
 # How to Use Application
 ### Homepage
 The homepage is the navigation tool to go through the main pages of the project. Here are the mains of the Application.
