@@ -108,3 +108,13 @@ Enter the name of the topic and content of the topic you wish to create and clic
 ### Add Subject Topic ID
 After you add notes you will need to asign note to subject topic id.
 ![addsubjecttopic](https://user-images.githubusercontent.com/16356275/38936616-1a01315e-4319-11e8-861e-c927558e5e70.png)
+
+
+### Update Not
+To update your notes, you must look for the topic id of which note you wish to change. Enter the selected id, you can now change the name and details of the topic.
+![updatenotes](https://user-images.githubusercontent.com/16356275/38936765-71905c24-4319-11e8-9920-aa27316a56f2.png)
+
+### Delete Notes
+Deleting notes are very easy, find the topic id of which note\topic you wish to delete. Enter the id and execute it by clicking delete, now return to your notes its deleted.
+
+
