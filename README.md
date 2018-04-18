@@ -116,5 +116,8 @@ To update your notes, you must look for the topic id of which note you wish to c
 
 ### Delete Notes
 Deleting notes are very easy, find the topic id of which note\topic you wish to delete. Enter the id and execute it by clicking delete, now return to your notes its deleted.
+![delete](https://user-images.githubusercontent.com/16356275/38940506-291c4bf2-4322-11e8-9b07-54780a7ebe01.png)
 
+### More information
+This page has all the helpfull information links that students can use.
 
