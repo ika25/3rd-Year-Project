@@ -129,6 +129,7 @@ What I learned from this project, that it is very dependent on the java layer so
 I run into few problems with trying to addd/Add subject topic id and delete features, when i tried to add note it would add in database but not in web page and it would desplay, i had same proble with delete but in this case app would stop working all togehtere and had to restart it. to fix this problmes i made this cjanges.
   1)	After adding SubjectTopic and Notes, the program was not directed to legitimate page rather it was returning to non-existing page.       I redirected it to legitimate page by changing the return type.
   2)	For deleting Notes, it was not deleting the children/foreign-key tables’ record. For this purpose, I deleted the children first         then the note.
+  
 If I could enhance this project in any way I would have added a login feature to allow more than one user to store notes on this system, and to be able to upload pictures and save it.
 
 ### References
